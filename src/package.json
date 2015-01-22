@@ -1,0 +1,15 @@
+{
+  "name": "kudo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "carrier": "^0.1.14",
+    "jsonfile": "^2.0.0",
+    "minimist": "^1.1.0",
+	"kue": "^0.8.11"
+  }
+}
